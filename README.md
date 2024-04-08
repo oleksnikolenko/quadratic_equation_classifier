@@ -23,6 +23,14 @@ Each image is mapped to its quadratic, linear, and constant coefficients in a st
 
 The model is based on a simplified ResNet architecture, which is a solid choice for image recognintion task while being computationally efficient. The architecture includes several residual blocks with convolutional layers, batch normalization, ReLU activations, and a global average pooling layer, ending in a dense layer for coefficient prediction.
 
+## Mobile app
+Finally, I've created an iOS app and deployed a model using TFLite:
+
+<img width="243" alt="Picture4" src="https://github.com/oleksnikolenko/quadratic_equation_classifier/assets/48183074/f4dc7e2b-d048-4a19-9689-5725186b9e2f">
+
+<img width="243" alt="Picture3" src="https://github.com/oleksnikolenko/quadratic_equation_classifier/assets/48183074/e0ba8123-d7cc-4190-9e9c-757d680fa828">
+
+
 ## Features
 
 - **Custom ResNet-like Architecture**: Tailored for the specific task of recognizing quadratic equations, ensuring efficient learning and accurate predictions.
