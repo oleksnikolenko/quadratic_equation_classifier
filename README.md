@@ -16,7 +16,7 @@ To collect data, I generated random equations, and did the handwriting myself. T
 Each image is mapped to its quadratic, linear, and constant coefficients in a structured CSV file. It looks like this:
 
 ![Screenshot 2024-04-06 at 11 18 23 AM](https://github.com/oleksnikolenko/quadratic_equation_classifier/assets/48183074/c43c6a1c-86ad-45f6-b1c2-4d9a1b4d7f08)
-![Screenshot 2024-04-06 at 11 19 04 AM](https://github.com/oleksnikolenko/quadratic_equation_classifier/assets/48183074/c4b68f9e-1b74-443a-9df0-44288aa56cd7)
+![Screenshot 2024-04-09 at 4 32 43 PM](https://github.com/oleksnikolenko/quadratic_equation_classifier/assets/48183074/8aa78772-a051-4c7c-a4da-22fca6d18e87)
 
 
 ## Model Architecture
