@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Quadro' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'TensorFlowLiteSwift'
+  pod 'PinLayout'
+  pod 'CropViewController'
+  
+  # Pods for Quadro
+
+  target 'QuadroTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'QuadroUITests' do
+    # Pods for testing
+  end
+
+end
